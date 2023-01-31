@@ -1,0 +1,54 @@
+p {
+    color: #FF69B4;
+    font-size: 24px; font-family: 'Itim', sans-serif;}
+    
+    h1 {font-family: 'Itim', sans-serif;
+     text-shadow: 1px 1px white;
+    }
+    img {
+      border: 5px solid #FF69B4;
+    }
+    body {
+      background-color: lightgrey;
+    }
+    .block_element {
+      height: 50px;
+      background-color: darkgrey;
+      overflow: hidden;
+      font-family: 'Itim', sans-serif;
+      font-size: 24px;
+      float: top;
+      color: #f2f2f2;
+      text-align: left;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+    
+    .inline-block {
+      display: inline-block;
+      padding: 15px;
+    }
+    .right {
+     float: left;
+      height: 500px;
+      width: 70%;
+       background-color: lightpink;
+      text-align: center;
+    }
+    .left {
+    float: left;
+      height: 500px;
+      background-color: #C6C6C6;
+      width: 30%;
+      text-align: center;
+    }
+    
+    .card {
+      display: inline-block;
+      background-color: #C6C6C6;
+      border-radius: 5px;
+      height: 200px;
+      width: 150px;
+      margin: 35px;
+      margin-top: 50px;
+    }
